@@ -26,4 +26,6 @@ Ao progredir com a análise dos dados de origem, podemos desenhar o seguinte mod
 
 Neste modelo identificamos uma tabela Fato de Transação relacionada a três tabelas de dimensões: Condição de Pagamento, Tipo de Documento e Pessoas.
 
-Através do notebook "Pandas_Pipeline_Fluxo_de Caixa" programamos todo este processo desenhado acima e produzimos uma pipeline como saída. 
+Através do notebook "Pandas_Pipeline_Fluxo_de Caixa" programamos todo este processo desenhado acima e produzimos como saída os dados trabalhados, finalizados e particionados por Ano/Mês para ser utilzados em consultas.
+
+![estrutura de diretorios](https://github.com/user-attachments/assets/68db59e1-8148-4ecf-a162-dfaaf33f45d6)
